@@ -4,3 +4,6 @@
 
 [Activity-2](https://github.com/Imnotlemwel/Elec-303_Activity-2/blob/main/Act2_UK_ROAD_ACCIDENTS_ANALYST.ipynb)
 - Activity 2 UK Road Accident Data Set
+
+[Midterm Exam](https://github.com/Imnotlemwel/Elec-Midterm_Exam/blob/main/Midterm_Exams.ipynb)
+- Midterm Exam UK Chicago Crimes
