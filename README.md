@@ -7,3 +7,6 @@
 
 [Midterm Exam](https://github.com/Imnotlemwel/Elec-Midterm_Exam/blob/main/Midterm_Exams.ipynb)
 - Midterm Exam UK Chicago Crimes
+
+[Activity 3](https://github.com/Imnotlemwel/Elec-Dengue-Case-Act3/blob/main/Act_3_Dengue_Cases.ipynb)
+- Dengue Cases 2016 - 2020
