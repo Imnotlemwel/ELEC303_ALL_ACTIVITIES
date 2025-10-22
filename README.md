@@ -10,3 +10,7 @@
 
 [Activity 3](https://github.com/Imnotlemwel/Elec-Dengue-Case-Act3/blob/main/Act_3_Dengue_Cases.ipynb)
 - Activity 3 Dengue Cases 2016 - 2020
+
+[Online Assignment](https://github.com/Imnotlemwel/LinearRegression_Assignment/blob/main/LinearRegression_Assignment.ipynb)
+- Assignment Linear Regression Assignment
+
