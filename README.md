@@ -1,4 +1,4 @@
-# ELEC303 Data Analytics Activities 📈
+<h1 style="color: #1E90FF;">ELEC303 Data Analytics Activities</h1> 📈
 # De Ramos, Lemuel A.
 # BSIT - 3C
 
