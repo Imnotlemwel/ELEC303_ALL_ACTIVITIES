@@ -14,3 +14,5 @@
 [Online Assignment](https://github.com/Imnotlemwel/LinearRegression_Assignment/blob/main/LinearRegression_Assignment.ipynb)
 - Assignment Linear Regression Assignment
 
+[Titanic Survavilty](https://github.com/Imnotlemwel/Titanic/blob/main/TitanicSurvavility_MachineLearning.ipynb)
+- Titanic Survivability Machine Learning
