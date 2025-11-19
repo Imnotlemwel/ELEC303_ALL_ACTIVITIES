@@ -17,5 +17,5 @@
 [Titanic Survivability](https://github.com/Imnotlemwel/Titanic/blob/main/TitanicSurvavility_MachineLearning.ipynb)
 - Titanic Survivability Machine Learning
 
-[Machine Learning1](https://github.com/Imnotlemwel/Machine_Learning1)
+[Machine Learning1](https://github.com/Imnotlemwel/Machine_Learning1/blob/main/Machine_Learning_Exercise1-Copy1.ipynb)
 - Machine Learning - Housing Train Price
