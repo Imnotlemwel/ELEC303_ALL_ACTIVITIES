@@ -1,54 +1,56 @@
-# ELEC303 Data Analytics
+# ELEC303 Data Analytics Activities
+
+This repository contains a collection of data analytics and machine learning activities related to the ELEC303 course. Each activity focuses on applying statistical, visualization, and machine learning techniques to real-world datasets.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
-| 🔖 Category      | 🧩 Activity                                                         | 📝 Description                                                        |
-|------------------|-------------------------------------------------------------------|----------------------------------------------------------------------|
-| 🎯 **Midterms**  | [🦩 Activity 1 - Palmer Penguin](https://github.com/Imnotlemwel/ITELEC-303-Data-Analytics-Act-1/blob/main/Assignment%20kay%20Sir%20Mesiera.ipynb) | Explore Palmer Penguins dataset for data cleaning, visualization, and statistical analysis. |
-|                  | [🚦 Activity 2 - UK Road Accident](https://github.com/Imnotlemwel/Elec-303_Activity-2/blob/main/Act2_UK_ROAD_ACCIDENTS_ANALYST.ipynb) | Analyze UK road accident trends using EDA and visualization.        |
-|                  | [🏙️ Midterm Exam - Chicago Crime](https://github.com/Imnotlemwel/Elec-Midterm_Exam/blob/main/Midterm_Exams.ipynb) | Explore Chicago crime data using spatial and temporal analysis.      |
-| 🎓 **Finals**    | [🦟 Project 3 - PH Dengue Analysis w/ Linear Regression](https://github.com/Imnotlemwel/Elec-Dengue-Case-Act3/blob/main/Act_3_Dengue_Cases.ipynb) | Analyze dengue cases in the Philippines using time-series and visualization. |
-|                  | [📊 Assignment - Linear Regression](https://github.com/Imnotlemwel/LinearRegression_Assignment/blob/main/LinearRegression_Assignment.ipynb) | Implement linear regression for predictive modeling.                 |
-| 🧠 **Machine Learning** | [🚢 Titanic Survivability Prediction](https://github.com/Imnotlemwel/Titanic/blob/main/TitanicSurvavility_MachineLearning.ipynb) | Predict survival of Titanic passengers using machine learning.       |
-|                  | [🏡 Machine Learning Exercise 1](https://github.com/Imnotlemwel/Machine_Learning1/blob/main/Machine_Learning_Exercise1-Copy1.ipynb) | Practice core machine learning concepts with housing price dataset.  |
-
----
-
-## 📌 Midterm Activities
-
-### 🦩 Activity 1 - Palmer Penguin
-Explores the **Palmer Penguins dataset** to practice basic data cleaning, visualization, and statistical analysis for understanding species characteristics and relationships.
-
-### 🚦 Activity 2 - UK Road Accident
-Analyzes **UK Road Accident data** to identify patterns, trends, and contributing factors to traffic incidents using exploratory data analysis and visualization techniques.
-
-### 🏙️ Midterm Exam - Chicago Crime
-Examines the **Chicago Crime dataset** to explore crime patterns, trends, and relationships between crime types, locations, and temporal factors. Techniques used:
-- Aggregating crime counts by type, ward, and community area
-- Visualizing spatial distribution of crimes with maps
-- Temporal analysis by day, hour, and season
+| Category         | Activity                                                                                         | Description                                                                                              |
+|------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Midterm          | [Activity 1: Palmer Penguins Dataset](https://github.com/Imnotlemwel/ITELEC-303-Data-Analytics-Act-1/blob/main/Assignment%20kay%20Sir%20Mesiera.ipynb)               | Data cleaning, visualization, and statistical analysis of penguin species characteristics and relationships.              |
+|                  | [Activity 2: UK Road Accident Data](https://github.com/Imnotlemwel/Elec-303_Activity-2/blob/main/Act2_UK_ROAD_ACCIDENTS_ANALYST.ipynb)                               | Exploratory data analysis of UK road accident data to identify trends and contributing factors in traffic incidents.         |
+|                  | [Midterm Exam: Chicago Crime Analysis](https://github.com/Imnotlemwel/Elec-Midterm_Exam/blob/main/Midterm_Exams.ipynb)                                               | Analysis of spatial and temporal crime patterns in Chicago using aggregation and visualization techniques.                    |
+| Finals           | [Project 3: Dengue Analysis with Linear Regression](https://github.com/Imnotlemwel/Elec-Dengue-Case-Act3/blob/main/Act_3_Dengue_Cases.ipynb)                            | Time-series and regional analysis of dengue cases in the Philippines utilizing linear regression and data visualization.       |
+|                  | [Assignment: Linear Regression](https://github.com/Imnotlemwel/LinearRegression_Assignment/blob/main/LinearRegression_Assignment.ipynb)                                | Implementation and evaluation of logistic regression models for binary classification and prediction.                          |
+| Machine Learning | [Titanic Survivability Prediction](https://github.com/Imnotlemwel/Titanic/blob/main/TitanicSurvavility_MachineLearning.ipynb)                                         | Machine learning approach to predict Titanic passenger survival using feature engineering and model evaluation.               |
+|                  | [Machine Learning Exercise 1: Housing Price Prediction](https://github.com/Imnotlemwel/Machine_Learning1/blob/main/Machine_Learning_Exercise1-Copy1.ipynb)             | Hands-on practice of machine learning concepts including model training, evaluation, and prediction using housing data.        |
 
 ---
 
-## 📌 Finals Activities
+## Activity Descriptions
 
-### 🦟 Project 3 - PH Dengue Analysis w/ Linear Regression
-Analyzes **Dengue cases in the Philippines** to understand trends, regional hotspots, and temporal patterns of the disease through data visualization and time-series analysis.
-
-### 📊 Assignment - Linear Regression
-Examine linear regression techniques to model and predict outcomes using data science concepts.
+### Activity 1: Palmer Penguins Dataset  
+This activity involves exploring the Palmer Penguins dataset to practice foundational data cleaning, visualization, and statistical analysis techniques. The goal is to understand species characteristics and their relationships by analyzing key attributes such as flipper length, bill dimensions, and species classification.
 
 ---
 
-## 📌 Machine Learning
-
-### 🚢 Titanic Survivability Prediction
-Predict survival of Titanic passengers using machine learning models and feature analysis.
-
-### 🏡 Machine Learning Exercise 1
-Practice core machine learning concepts, including model training, evaluation, and prediction tasks.
+### Activity 2: UK Road Accident Data  
+In this task, UK road accident data is examined to identify patterns and trends related to traffic incidents. Exploratory Data Analysis (EDA) techniques are used to visualize accident locations, time distributions, and contributing factors. This activity highlights the importance of data visualization in uncovering insights from complex datasets.
 
 ---
+
+### Midterm Exam: Chicago Crime Analysis  
+This examination requires analyzing Chicago crime data to understand spatial and temporal crime patterns across different wards and community areas. Techniques include aggregating crime counts by type and location, visualizing crime distribution through maps, and performing temporal analysis by day, hour, and season to identify crime trends.
+
+---
+
+### Project 3: Dengue Analysis with Linear Regression  
+This project focuses on analyzing dengue fever cases in the Philippines from 2016 to 2020. Using time-series data and linear regression models, the analysis aims to detect trends, identify regional hotspots, and understand temporal disease patterns. Data visualization is heavily used to communicate findings effectively.
+
+---
+
+### Assignment: Linear Regression  
+The assignment involves implementing logistic regression for binary classification problems. It covers model building, evaluation, and prediction tasks, emphasizing the practical application of regression models in data science.
+
+---
+
+### Titanic Survivability Prediction  
+This activity utilizes machine learning models to predict the survival probability of passengers aboard the Titanic. It includes feature engineering, model selection, and evaluation to create an accurate predictive model based on historical passenger data.
+
+---
+
+### Machine Learning Exercise 1: Housing Price Prediction  
+This exercise provides hands-on experience with core machine learning concepts such as model training, evaluation, and prediction. Using housing price data, students practice regression techniques to predict housing market values, enhancing their understanding of machine learning workflows.
+
 
