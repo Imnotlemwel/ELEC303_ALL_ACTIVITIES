@@ -1,6 +1,6 @@
 # ELEC303 Data Analytics Activities 📈
-<h3>De Ramos, Lemuel A.</h3>
-# BSIT - 3C
+<h2>De Ramos, Lemuel A.</h2>
+<h3>BSIT - 3C</h3>
 
 This repository contains a series of data analytics and machine learning activities for the ELEC303 course, focusing on applying statistical methods, visualization, and predictive modeling to real-world datasets.
 
